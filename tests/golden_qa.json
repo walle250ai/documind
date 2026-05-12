@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is renewable energy?",
+    "ground_truth": "Renewable energy is energy from sources that are naturally replenishing but flow-limited.",
+    "reference_context": "Renewable energy is energy from sources that are naturally replenishing but flow-limited. Renewable resources are virtually inexhaustible in duration but limited in the amount of energy that is available per unit of time.",
+    "source": "renewable_energy_101.pdf"
+  },
+  {
+    "question": "What are the main types of renewable energy?",
+    "ground_truth": "The main types include solar, wind, hydro, geothermal, and biomass energy.",
+    "reference_context": "The main types of renewable energy include solar, wind, hydro, geothermal, and biomass energy. Each type harnesses natural resources to generate electricity or heat.",
+    "source": "renewable_energy_101.pdf"
+  },
+  {
+    "question": "How does solar energy work?",
+    "ground_truth": "Solar energy works by converting sunlight into electricity using photovoltaic panels.",
+    "reference_context": "Solar energy works by converting sunlight into electricity using photovoltaic panels. These panels contain solar cells that absorb photons and generate an electric current.",
+    "source": "renewable_energy_101.pdf"
+  },
+  {
+    "question": "What is wind energy used for?",
+    "ground_truth": "Wind energy is primarily used for generating electricity through wind turbines.",
+    "reference_context": "Wind energy is primarily used for generating electricity through wind turbines. The kinetic energy of the wind spins the turbine blades, which drive a generator to produce electricity.",
+    "source": "renewable_energy_101.pdf"
+  },
+  {
+    "question": "Why is renewable energy important?",
+    "ground_truth": "Renewable energy is important because it reduces greenhouse gas emissions and dependence on fossil fuels.",
+    "reference_context": "Renewable energy is important because it reduces greenhouse gas emissions and dependence on fossil fuels. It also helps mitigate climate change and provides sustainable energy solutions for the future.",
+    "source": "renewable_energy_101.pdf"
+  }
+]

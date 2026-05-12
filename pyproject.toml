@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "documind"
+version = "0.1.0"
+description = "Document Retrieval and QA System"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3"
+langchain-openai = "^0.2"
+langchain-anthropic = "^0.3"
+langchain-community = "^0.3"
+qdrant-client = "^1.12"
+fastapi = "^0.115"
+uvicorn = "^0.32"
+streamlit = "^1.40"
+ragas = "^0.2"
+rank-bm25 = "^0.2"
+pypdf = "^5.0"
+python-multipart = "^0.0.12"
+pydantic-settings = "^2.6"
+tiktoken = "^0.8"
+cohere = "^5.11"
+prometheus-client = "^0.21"
+structlog = "^24.4"
+tenacity = "^9.0"
+numpy = "^2.0"
+rich = "^13.9"
+matplotlib = "^3.10"
+requests = "^2.32"
+pandas = "^2.2"
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
